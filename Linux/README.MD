@@ -11,3 +11,4 @@ Download keymap.sh
 Open a terminal and type:
 chmod +x keymap.sh
 ./keymap.sh
+
