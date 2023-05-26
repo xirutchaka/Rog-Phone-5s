@@ -2,6 +2,8 @@
 
 Enable usb debugging in android developer options.
 
+Computer need to be trusted by the phone.
+
 Install ADB on Linux (ubuntu)
 
 sudo apt install adb
