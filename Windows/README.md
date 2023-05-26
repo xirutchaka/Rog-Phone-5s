@@ -8,3 +8,7 @@ Download files and execute keymap.bat
 
 Test.
 
+If you need install usb google driver for windows.
+
+https://developer.android.com/studio/run/win-usb
+
